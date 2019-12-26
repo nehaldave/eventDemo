@@ -1,0 +1,23 @@
+{
+	"_id" : ObjectId("5e047a76d1dc7b5788bd583d"),
+	"created_by" : 1,
+	"description" : "This is demo data for the practical round",
+	"endDate" : ISODate("2020-01-26T09:45:59.000+05:30"),
+	"eventid" : 1,
+	"interestedClient" : [ ],
+	"name" : "Interview",
+	"place" : "Ahmedabad",
+	"startDate" : ISODate("2019-12-26T09:45:59.000+05:30"),
+	"status" : "Activate"
+},
+{
+	"_id" : ObjectId("5e04838bcb95dd6f8834a05c"),
+	"created_by" : NumberInt(1),
+	"description" : "This is demo data for the practical round",
+	"endDate" : "2020-01-26T09:45:59.000+05:30",
+	"eventid" : NumberInt(2),
+	"name" : "Interview1",
+	"place" : "Surat",
+	"startDate" : "2019-12-26T09:45:59.000+05:30",
+	"status" : "Activate"
+},

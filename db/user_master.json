@@ -1,0 +1,16 @@
+{
+	"_id" : ObjectId("5e047095d1dc7b5788bd583c"),
+	"email" : "nehaldave4646@gmail.com",
+	"name" : "Nehal",
+	"password" : "1234567890",
+	"role" : "Admin",
+	"uid" : 1
+},
+{
+	"_id" : ObjectId("5e04737ab608d16c9440febc"),
+	"email" : "tejas@gmail.com",
+	"name" : "Tejas",
+	"password" : "12345678a",
+	"role" : "client",
+	"uid" : NumberInt(2)
+},
